@@ -1,0 +1,11 @@
+Laporan Bank Kelompok 5
+Generated: 2025-10-21 16:55:20
+Bank: Bank Kelompok 5
+Total Akun: 3
+Total Saldo: Rp428,500.00
+Rata-rata Saldo: Rp142,833.33
+
+Detail Akun:
+- ACC001 | Aisha | Savings Account | Saldo: Rp294,000.00
+- ACC002 | Hana | Checking Account | Saldo: Rp-20,000.00
+- ACC003 | Kampoel | Savings Account | Saldo: Rp154,500.00

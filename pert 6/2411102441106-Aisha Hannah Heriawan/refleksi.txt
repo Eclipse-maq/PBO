@@ -1,0 +1,7 @@
+Refleksi singkat
+Jadi, jika hanya models/kontak.py langsung di terminal, maka tidak akan muncul output apapun. Karena, file kontak.py itu hanya berisi sebuah cetakan class saja tanpa ada perintah buat bikin sebuah objek atau menampilkan data. Untuk liat hasilnya, maka harus lewat main.py yang isinya untuk membuat objek serta memanggil methodnya.
+
+
+
+
+
