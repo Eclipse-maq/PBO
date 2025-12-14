@@ -14,6 +14,7 @@ LOGGER = logging.getLogger('Checkout')
 from abc import ABC, abstractmethod
 from dataclasses import dataclass
 
+
 # model sederhana
 @dataclass
 class Order:
